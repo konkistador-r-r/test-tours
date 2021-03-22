@@ -1,2 +1,3 @@
 Feature-1-branch-file
 Feature-2-branch-line
+New line in branch
