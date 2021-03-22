@@ -5,3 +5,4 @@ new branch commit 3
 new branch commit 4
 new branch commit 5
 new branch commit 6
+new branch commit 7
